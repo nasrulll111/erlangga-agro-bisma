@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-id="gallery-page-title">Galeri - Erlangga Agro Bismo</title>
+    <meta name="description" data-id="gallery-page-description" content="Lihat dokumentasi fasilitas, proses produksi, dan aktivitas Erlangga Agro Bismo dalam galeri foto dan video kami.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <img src="assets/images/logo.png" alt="Erlangga Agro Bismo" class="logo-img">
+                <span class="logo-text">Erlangga Agro Bismo</span>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link" data-id="nav-home">Beranda</a>
+                </li>
+                <li class="nav-item">
+                    <a href="about.html" class="nav-link" data-id="nav-about">Tentang</a>
+                </li>
+                <li class="nav-item">
+                    <a href="products.html" class="nav-link" data-id="nav-products">Produk</a>
+                </li>
+                <li class="nav-item">
+                    <a href="market.html" class="nav-link" data-id="nav-market">Pasar</a>
+                </li>
+                <li class="nav-item">
+                    <a href="brand.html" class="nav-link" data-id="nav-brand">Merek</a>
+                </li>
+                <li class="nav-item">
+                    <a href="gallery.html" class="nav-link active" data-id="nav-gallery">Galeri</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link" data-id="nav-contact">Kontak</a>
+                </li>
+                <li class="nav-item language-toggle">
+                    <select id="languageSelector" class="language-selector">
+                        <option value="id">🇮🇩 ID</option>
+                        <option value="en">🇺🇸 EN</option>
+                    </select>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1 class="page-title" data-id="gallery-title">Galeri</h1>
+            <p class="page-subtitle" data-id="gallery-subtitle">Dokumentasi fasilitas dan produk kami</p>
+        </div>
+    </section>
+
+    <!-- Company Video -->
+    <section class="video-section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title" data-id="video-title">Video Profil Perusahaan</h2>
+                <p class="section-subtitle" data-id="video-subtitle">Lihat lebih dekat fasilitas dan proses produksi kami</p>
+            </div>
+            <div class="video-container">
+                <video controls class="main-video" poster="assets/videos/company-thumbnail.jpg">
+                    <source src="assets/videos/company-profile.mp4" type="video/mp4">
+                    <p data-id="video-not-supported">Browser Anda tidak mendukung video HTML5.</p>
+                </video>
+            </div>
+        </div>
+    </section>
+
+    <!-- Photo Gallery -->
+    <section class="photo-gallery">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title" data-id="photo-title">Galeri Foto</h2>
+                <p class="section-subtitle" data-id="photo-subtitle">Dokumentasi aktivitas dan fasilitas perusahaan</p>
+            </div>
+            <div class="gallery-categories">
+                <button class="category-btn active" data-category="all" data-id="category-all">Semua</button>
+                <button class="category-btn" data-category="facility" data-id="category-facility">Fasilitas</button>
+                <button class="category-btn" data-category="production" data-id="category-production">Produksi</button>
+                <button class="category-btn" data-category="export" data-id="category-export">Ekspor</button>
+            </div>
+            <div class="gallery-grid">
+                <div class="gallery-item" data-category="facility">
+                    <img src="https://img.antarafoto.com/cache/1200x796/2011/09/13/siram-tanaman-kentang-3k4s-dom.webp?auto=compress&cs=tinysrgb&w=400" alt="Penyiraman Tanaman">
+                    <div class="gallery-overlay">
+                        <h4 data-id="gallery-facility">Penyiraman Tanaman Kentang</h4>
+                        <p data-id="gallery-facility-desc">Penyiraman tanaman kentang mengunakan metode manual</p>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="production">
+                    <img src="https://media.potatopro.com/nedato-packaging-potatoes-large-bags-809.jpg?width=1200&height=743&crop=smart&mode=crop?auto=compress&cs=tinysrgb&w=400" alt="Proses Packaging">
+                    <div class="gallery-overlay">
+                        <h4 data-id="gallery-packaging">Proses Packaging</h4>
+                        <p data-id="gallery-packaging-desc">Packaging berkualitas untuk menjaga kesegaran</p>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="production">
+                    <img src="https://anugrahagroputra.id/wp-content/uploads/2025/01/agro-09206-2048x1365.webp?auto=compress&cs=tinysrgb&w=400" alt="Perawtan Kentang">
+                    <div class="gallery-overlay">
+                        <h4 data-id="gallery-quality">Perawatan Tanaman</h4>
+                        <p data-id="gallery-quality-desc">Perawatan tanaman kentang dengan membalik tanah</p>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="facility">
+                    <img src="https://monitor.co.id/wp-content/uploads/2019/03/IMG-20190307-WA0007-1068x504.jpg?auto=compress&cs=tinysrgb&w=400" alt="Storage Facility">
+                    <div class="gallery-overlay">
+                        <h4 data-id="gallery-storage">Fasilitas Penyimpanan</h4>
+                        <p data-id="gallery-storage-desc">Gudang penyimpanan kentang setelah panen</p>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="production">
+                    <img src="https://imgcdn.espos.id/@espos/images/2022/02/04022022-foto-kentang-goreng-2_kecil.jpg?quality=60&_gl=1*1x1cd1q*_gcl_au*MTcyMTc5NjM1Ni4xNzUxMzczNDU2*_ga*NTE3NTAxODkxLjE3NTEzNzM0NTY.*_ga_5RRFTQXGVW*czE3NTY0OTYyNTckbzIkZzEkdDE3NTY0OTYyNjEkajU2JGwwJGgxMjE3MjY5NTU5?auto=compress&cs=tinysrgb&w=400" alt="Harvest Process">
+                    <div class="gallery-overlay">
+                        <h4 data-id="gallery-harvest">Proses Panen</h4>
+                        <p data-id="gallery-harvest-desc">Panen pada waktu optimal untuk kualitas terbaik</p>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="export">
+                    <img src="https://s.alicdn.com/@sc04/kf/H02da7639a4524bdab7e4d2626e3d8d9bP.png?auto=compress&cs=tinysrgb&w=400" alt="Export Loading">
+                    <div class="gallery-overlay">
+                        <h4 data-id="gallery-export">Loading Ekspor</h4>
+                        <p data-id="gallery-export-desc">Proses loading untuk pengiriman internasional</p>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="facility">
+                    <img src="https://image.made-in-china.com/155f0j00aCziJQWEhApF/Sweet-Potatoes-Washing-Drying-and-Sorting-Machine-Vegetable-Garlic-Sweet-Potato-Cleaning-Drying-Sorting-Machine.webp?auto=compress&cs=tinysrgb&w=400" alt="Processing Area">
+                    <div class="gallery-overlay">
+                        <h4 data-id="gallery-processing">Area Pengolahan</h4>
+                        <p data-id="gallery-processing-desc">Area pengolahan yang higienis dan modern</p>
+                    </div>
+                </div>
+                <div class="gallery-item" data-category="production">
+                    <img src="https://surabayapost.id/wp-content/uploads/2020/01/IMG-20200121-WA0095.jpg?auto=compress&cs=tinysrgb&w=400" alt="Sorting Process">
+                    <div class="gallery-overlay">
+                        <h4 data-id="gallery-sorting">Proses Sortir</h4>
+                        <p data-id="gallery-sorting-desc">Sortir manual untuk memastikan kualitas premium</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-logo">
+                        <img src="assets/images/logo.png" alt="Erlangga Agro Bismo" class="logo-img">
+                        <span class="logo-text">Erlangga Agro Bismo</span>
+                    </div>
+                    <p data-id="footer-desc">Penyedia produk pertanian berkualitas tinggi untuk ekspor internasional.</p>
+                </div>
+                <div class="footer-section">
+                    <h4 data-id="footer-company">Perusahaan</h4>
+                    <ul>
+                        <li><a href="about.html" data-id="footer-about">Tentang Kami</a></li>
+                        <li><a href="products.html" data-id="footer-products">Produk</a></li>
+                        <li><a href="market.html" data-id="footer-market">Pasar</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4 data-id="footer-services">Layanan</h4>
+                    <ul>
+                        <li><a href="#" data-id="footer-export">Ekspor</a></li>
+                        <li><a href="#" data-id="footer-consulting">Konsultasi</a></li>
+                        <li><a href="#" data-id="footer-partnership">Kemitraan</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4 data-id="footer-contact">Kontak</h4>
+                    <ul>
+                        <li>info@Erlanggaagrobismo.com</li>
+                        <li>+62 858-4017-9349</li>
+                        <li>Campursari, Kejajar, Wonosobo, Indonesia</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p data-id="footer-copyright">&copy; 2025 Erlangga Agro Bismo. Semua hak cipta dilindungi.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/translations.js"></script>
+    <script src="js/navigation.js"></script>
+    <script src="js/gallery.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
