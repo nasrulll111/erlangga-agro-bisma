@@ -2,20 +2,20 @@
 const translations = {
   id: {
     // Page titles and descriptions
-    'page-title': 'Erlangga Agro Bismo - Penyedia Produk Pertanian Premium untuk Ekspor',
+    'page-title': 'Erlangga Agro Bisma - Penyedia Produk Pertanian Premium untuk Ekspor',
     'page-description': 'Lucytos menghadirkan kentang premium yang tidak hanya lezat dan pulen, tetapi juga sehat, bernutrisi serta aman untuk dikonsumsi',
-    'about-page-title': 'Tentang Kami - Erlangga Agro Bismo',
-    'about-page-description': 'Pelajari lebih lanjut tentang Erlangga Agro Bismo, visi, misi, dan komitmen kami dalam menyediakan produk pertanian berkualitas tinggi untuk ekspor.',
-    'products-page-title': 'Produk Unggulan - Erlangga Agro Bismo',
+    'about-page-title': 'Tentang Kami - Erlangga Agro Bisma',
+    'about-page-description': 'Pelajari lebih lanjut tentang Erlangga Agro Bisma, visi, misi, dan komitmen kami dalam menyediakan produk pertanian berkualitas tinggi untuk ekspor.',
+    'products-page-title': 'Produk Unggulan - Erlangga Agro Bisma',
     'products-page-description': 'Jelajahi produk pertanian berkualitas tinggi kami: kentang premium, wortel segar, dan kubis hijau untuk kebutuhan ekspor internasional.',
-    'market-page-title': 'Jangkauan Pasar - Erlangga Agro Bismo',
-    'market-page-description': 'Jelajahi jangkauan pasar ekspor Erlangga Agro Bismo yang melayani berbagai negara dengan produk pertanian berkualitas tinggi.',
-    'brand-page-title': 'Merek & Sertifikasi - Erlangga Agro Bismo',
-    'brand-page-description': 'Lihat merek dan sertifikasi yang dimiliki Erlangga Agro Bismo untuk menjamin kualitas produk pertanian ekspor.',
-    'gallery-page-title': 'Galeri - Erlangga Agro Bismo',
-    'gallery-page-description': 'Lihat dokumentasi fasilitas, proses produksi, dan aktivitas Erlangga Agro Bismo dalam galeri foto dan video kami.',
-    'contact-page-title': 'Hubungi Kami - Erlangga Agro Bismo',
-    'contact-page-description': 'Hubungi Erlangga Agro Bismo untuk kebutuhan ekspor produk pertanian. Kami siap melayani dengan layanan pelanggan 24/7.',
+    'market-page-title': 'Jangkauan Pasar - Erlangga Agro Bisma',
+    'market-page-description': 'Jelajahi jangkauan pasar ekspor Erlangga Agro Bisma yang melayani berbagai negara dengan produk pertanian berkualitas tinggi.',
+    'brand-page-title': 'Merek & Sertifikasi - Erlangga Agro Bisma',
+    'brand-page-description': 'Lihat merek dan sertifikasi yang dimiliki Erlangga Agro Bisma untuk menjamin kualitas produk pertanian ekspor.',
+    'gallery-page-title': 'Galeri - Erlangga Agro Bisma',
+    'gallery-page-description': 'Lihat dokumentasi fasilitas, proses produksi, dan aktivitas Erlangga Agro Bisma dalam galeri foto dan video kami.',
+    'contact-page-title': 'Hubungi Kami - Erlangga Agro Bisma',
+    'contact-page-description': 'Hubungi Erlangga Agro Bisma untuk kebutuhan ekspor produk pertanian. Kami siap melayani dengan layanan pelanggan 24/7.',
     
     // Navigation
     'nav-home': 'Beranda',
@@ -47,10 +47,10 @@ const translations = {
     'cta-products': 'Lihat Produk',
     
     // About page
-    'about-title': 'Tentang Erlangga Agro Bismo',
+    'about-title': 'Tentang Erlangga Agro Bisma',
     'about-subtitle': 'Membangun masa depan pertanian yang berkelanjutan',
     'company-profile-title': 'Profil Perusahaan',
-    'about-desc': 'Erlangga Agro Bismo adalah perusahaan terdepan dalam penyediaan produk pertanian berkualitas tinggi. Dengan pengalaman bertahun-tahun, kami mengkhususkan diri dalam produksi dan distribusi kentang, wortel, dan kubis untuk pasar ekspor internasional.',
+    'about-desc': 'Erlangga Agro Bisma adalah perusahaan terdepan dalam penyediaan produk pertanian berkualitas tinggi. Dengan pengalaman bertahun-tahun, kami mengkhususkan diri dalam produksi dan distribusi kentang, wortel, dan kubis untuk pasar ekspor internasional.',
     'about-commitment': 'Kami berkomitmen untuk memberikan produk terbaik dengan menerapkan teknologi modern dalam setiap proses produksi, mulai dari pemilihan benih, penanaman, perawatan, hingga panen dan packaging. Setiap produk yang kami hasilkan telah melalui kontrol kualitas yang ketat untuk memastikan standar ekspor internasional.',
     'vision-title': 'Visi',
     'vision-text': 'Menjadi perusahaan agribisnis terkemuka yang menyediakan produk pertanian berkualitas tinggi untuk pasar global dengan komitmen pada keberlanjutan dan inovasi.',
@@ -224,25 +224,25 @@ const translations = {
     'footer-consulting': 'Konsultasi',
     'footer-partnership': 'Kemitraan',
     'footer-contact': 'Kontak',
-    'footer-copyright': '© 2025 Erlangga Agro Bismo. Semua hak cipta dilindungi.'
+    'footer-copyright': '© 2025 Erlangga Agro Bisma. Semua hak cipta dilindungi.'
   },
   
   en: {
     // Page titles and descriptions
-    'page-title': 'Erlangga Agro Bismo - Premium Agricultural Products Provider for Export',
+    'page-title': 'Erlangga Agro Bisma - Premium Agricultural Products Provider for Export',
     'page-description': 'Lucytos presents premium potatoes that are not only delicious and soft, but also healthy, nutritious, and safe to consume.',
-    'about-page-title': 'About Us - Erlangga Agro Bismo',
-    'about-page-description': 'Learn more about Erlangga Agro Bismo, our vision, mission, and commitment to providing high-quality agricultural products for export.',
-    'products-page-title': 'Featured Products - Erlangga Agro Bismo',
+    'about-page-title': 'About Us - Erlangga Agro Bisma',
+    'about-page-description': 'Learn more about Erlangga Agro Bisma, our vision, mission, and commitment to providing high-quality agricultural products for export.',
+    'products-page-title': 'Featured Products - Erlangga Agro Bisma',
     'products-page-description': 'Explore our high-quality agricultural products: premium potatoes, fresh carrots, and green cabbage for international export needs.',
-    'market-page-title': 'Market Reach - Erlangga Agro Bismo',
-    'market-page-description': 'Explore Erlangga Agro Bismo\'s export market reach serving various countries with high-quality agricultural products.',
-    'brand-page-title': 'Brands & Certifications - Erlangga Agro Bismo',
-    'brand-page-description': 'View the brands and certifications owned by Erlangga Agro Bismo to guarantee the quality of export agricultural products.',
-    'gallery-page-title': 'Gallery - Erlangga Agro Bismo',
-    'gallery-page-description': 'View documentation of facilities, production processes, and activities of Erlangga Agro Bismo in our photo and video gallery.',
-    'contact-page-title': 'Contact Us - Erlangga Agro Bismo',
-    'contact-page-description': 'Contact Erlangga Agro Bismo for your agricultural export product needs. We are ready to serve with 24/7 customer service.',
+    'market-page-title': 'Market Reach - Erlangga Agro Bisma',
+    'market-page-description': 'Explore Erlangga Agro Bisma\'s export market reach serving various countries with high-quality agricultural products.',
+    'brand-page-title': 'Brands & Certifications - Erlangga Agro Bisma',
+    'brand-page-description': 'View the brands and certifications owned by Erlangga Agro Bisma to guarantee the quality of export agricultural products.',
+    'gallery-page-title': 'Gallery - Erlangga Agro Bisma',
+    'gallery-page-description': 'View documentation of facilities, production processes, and activities of Erlangga Agro Bisma in our photo and video gallery.',
+    'contact-page-title': 'Contact Us - Erlangga Agro Bisma',
+    'contact-page-description': 'Contact Erlangga Agro Bisma for your agricultural export product needs. We are ready to serve with 24/7 customer service.',
     
     // Navigation
     'nav-home': 'Home',
@@ -274,10 +274,10 @@ const translations = {
     'cta-products': 'View Products',
     
     // About page
-    'about-title': 'About Erlangga Agro Bismo',
+    'about-title': 'About Erlangga Agro Bisma',
     'about-subtitle': 'Building a sustainable agricultural future',
     'company-profile-title': 'Company Profile',
-    'about-desc': 'Erlangga Agro Bismo is a leading company in providing high-quality agricultural products. With years of experience, we specialize in the production and distribution of potatoes, carrots, and cabbage for international export markets.',
+    'about-desc': 'Erlangga Agro Bisma is a leading company in providing high-quality agricultural products. With years of experience, we specialize in the production and distribution of potatoes, carrots, and cabbage for international export markets.',
     'about-commitment': 'We are committed to providing the best products by applying modern technology in every production process, from seed selection, planting, care, to harvesting and packaging. Every product we produce has gone through strict quality control to ensure international export standards.',
     'vision-title': 'Vision',
     'vision-text': 'To become a leading agribusiness company that provides high-quality agricultural products for the global market with a commitment to sustainability and innovation.',
@@ -451,7 +451,7 @@ const translations = {
     'footer-consulting': 'Consulting',
     'footer-partnership': 'Partnership',
     'footer-contact': 'Contact',
-    'footer-copyright': '© 2025 Erlangga Agro Bismo. All rights reserved.'
+    'footer-copyright': '© 2025 Erlangga Agro Bisma. All rights reserved.'
   }
 };
 
