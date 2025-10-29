@@ -1,7 +1,7 @@
 // Language translations
 const translations = {
   id: {
-    'page-title': 'Erlangga Agro Bismo - Penyedia Produk Pertanian Premium untuk Ekspor',
+    'page-title': 'Erlangga Agro Bisma - Penyedia Produk Pertanian Premium untuk Ekspor',
     'page-description': 'Lucytos menghadirkan kentang premium yang tidak hanya lezat dan pulen, tetapi juga sehat, bernutrisi serta aman untuk dikonsumsi',
     'nav-home': 'Beranda',
     'nav-about': 'Tentang',
@@ -14,9 +14,9 @@ const translations = {
     'hero-subtitle': 'Kentang, Wortel, dan Kubis Berkualitas Tinggi untuk Ekspor Internasional',
     'hero-btn-products': 'Lihat Produk',
     'hero-btn-contact': 'Hubungi Kami',
-    'about-title': 'Tentang Erlangga Agro Bismo',
+    'about-title': 'Tentang Erlangga Agro Bisma',
     'about-subtitle': 'Membangun masa depan pertanian yang berkelanjutan',
-    'about-desc': 'Erlangga Agro Bismo adalah perusahaan terdepan dalam penyediaan produk pertanian berkualitas tinggi. Dengan pengalaman bertahun-tahun, kami mengkhususkan diri dalam produksi dan distribusi kentang, wortel, dan kubis untuk pasar ekspor internasional.',
+    'about-desc': 'Erlangga Agro Bisma adalah perusahaan terdepan dalam penyediaan produk pertanian berkualitas tinggi. Dengan pengalaman bertahun-tahun, kami mengkhususkan diri dalam produksi dan distribusi kentang, wortel, dan kubis untuk pasar ekspor internasional.',
     'vision-title': 'Visi',
     'vision-text': 'Menjadi perusahaan agribisnis terkemuka yang menyediakan produk pertanian berkualitas tinggi untuk pasar global dengan komitmen pada keberlanjutan dan inovasi.',
     'mission-title': 'Misi',
@@ -75,10 +75,10 @@ const translations = {
     'footer-consulting': 'Konsultasi',
     'footer-partnership': 'Kemitraan',
     'footer-contact': 'Kontak',
-    'footer-copyright': '© 2025 Erlangga Agro Bismo. Semua hak cipta dilindungi.'
+    'footer-copyright': '© 2025 Erlangga Agro Bisma. Semua hak cipta dilindungi.'
   },
   en: {
-    'page-title': 'Erlangga Agro Bismo - Premium Agricultural Products Provider for Export',
+    'page-title': 'Erlangga Agro Bisma - Premium Agricultural Products Provider for Export',
     'page-description': 'Lucytos presents premium potatoes that are not only delicious and soft, but also healthy, nutritious, and safe to consume.',
     'nav-home': 'Home',
     'nav-about': 'About',
@@ -91,9 +91,9 @@ const translations = {
     'hero-subtitle': 'High-Quality Potatoes, Carrots, and Cabbage for International Export',
     'hero-btn-products': 'View Products',
     'hero-btn-contact': 'Contact Us',
-    'about-title': 'About Erlangga Agro Bismo',
+    'about-title': 'About Erlangga Agro Bisma',
     'about-subtitle': 'Building a sustainable agricultural future',
-    'about-desc': 'Erlangga Agro Bismo is a leading company in providing high-quality agricultural products. With years of experience, we specialize in the production and distribution of potatoes, carrots, and cabbage for international export markets.',
+    'about-desc': 'Erlangga Agro Bisma is a leading company in providing high-quality agricultural products. With years of experience, we specialize in the production and distribution of potatoes, carrots, and cabbage for international export markets.',
     'vision-title': 'Vision',
     'vision-text': 'To become a leading agribusiness company that provides high-quality agricultural products for the global market with a commitment to sustainability and innovation.',
     'mission-title': 'Mission',
@@ -152,7 +152,7 @@ const translations = {
     'footer-consulting': 'Consulting',
     'footer-partnership': 'Partnership',
     'footer-contact': 'Contact',
-    'footer-copyright': '© 2025 Erlangga Agro Bismo. All rights reserved.'
+    'footer-copyright': '© 2025 Erlangga Agro Bisma. All rights reserved.'
   }
 };
 
